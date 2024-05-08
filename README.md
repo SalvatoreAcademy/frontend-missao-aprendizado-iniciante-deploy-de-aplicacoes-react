@@ -1,2 +1,2 @@
-# frontend-missao-aprendizado-iniciante-deploy-de-aplicacoes-react
+# Frontend - Missão de Aprendizado - Iniciante: Deploy de Aplicações React
 Projeto da Missão de Aprendizado do nível Iniciante: Deploy de Aplicações React.
